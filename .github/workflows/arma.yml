@@ -1,0 +1,25 @@
+name: Dev Build
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout the source code
+      uses: actions/checkout@v3
+    - name: Setup HEMTT
+      uses: arma-actions/hemtt@v1
+    - name: Run HEMTT build
+      run: hemtt build
+    - name: Rename build folder
+      run: mv .hemttout/build .hemttout/@etfr
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: ace3-${{ github.sha }}-nobin
+        path: .hemttout/@*
