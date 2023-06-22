@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ETFR">
+    <Package name="R147">
+        <Key ID="STR_ETFR_R147_Authors">
+            <English>ETFR Team</English>
+            <German>ETFR Team</German>
+            <Italian>ETFR Team</Italian>
+            <Japanese>ETFR Team</Japanese>
+            <Chinese>ETFR Team</Chinese>
+            <Chinesesimp>ETFR Team</Chinesesimp>
+            <Korean>ETFR Team</Korean>
+            <Polish>ETFR Team</Polish>
+            <Russian>ETFR Team</Russian>
+            <Portuguese>ETFR Team</Portuguese>
+            <Spanish>ETFR Team</Spanish>
+            <Czech>ETFR Team</Czech>
+            <French>ETFR Team</French>
+        </Key>
+        <Key ID="STR_ETFR_R147_R147_displayName">
+            <English>R-147</English>
+            <German>R-147</German>
+            <Italian>R-147</Italian>
+            <Japanese>R-147</Japanese>
+            <Chinese>R-147</Chinese>
+            <Chinesesimp>R-147</Chinesesimp>
+            <Korean>R-147</Korean>
+            <Polish>R-147</Polish>
+            <Russian>R-147</Russian>
+            <Portuguese>R-147</Portuguese>
+            <Spanish>R-147</Spanish>
+            <Czech>R-147</Czech>
+            <French>R-147</French>
+        </Key>
+        <Key ID="STR_ETFR_R147_R147_descriptionShort">
+            <English>R-147</English>
+            <German>R-147</German>
+            <Italian>R-147</Italian>
+            <Japanese>R-147</Japanese>
+            <Chinese>R-147</Chinese>
+            <Chinesesimp>R-147</Chinesesimp>
+            <Korean>R-147</Korean>
+            <Polish>R-147</Polish>
+            <Russian>R-147</Russian>
+            <Portuguese>R-147</Portuguese>
+            <Spanish>R-147</Spanish>
+            <Czech>R-147</Czech>
+            <French>R-147</French>
+        </Key>
+        <Key ID="STR_ETFR_R147_R147P_displayName">
+            <English>R-147P</English>
+            <German>R-147P</German>
+            <Italian>R-147P</Italian>
+            <Japanese>R-147P</Japanese>
+            <Chinese>R-147P</Chinese>
+            <Chinesesimp>R-147P</Chinesesimp>
+            <Korean>R-147P</Korean>
+            <Polish>R-147P</Polish>
+            <Russian>R-147P</Russian>
+            <Portuguese>R-147P</Portuguese>
+            <Spanish>R-147P</Spanish>
+            <Czech>R-147P</Czech>
+            <French>R-147P</French>
+        </Key>
+        <Key ID="STR_ETFR_R147_R147P_descriptionShort">
+            <English>R-147</English>
+            <German>R-147</German>
+            <Italian>R-147</Italian>
+            <Japanese>R-147</Japanese>
+            <Chinese>R-147</Chinese>
+            <Chinesesimp>R-147</Chinesesimp>
+            <Korean>R-147</Korean>
+            <Polish>R-147</Polish>
+            <Russian>R-147</Russian>
+            <Portuguese>R-147</Portuguese>
+            <Spanish>R-147</Spanish>
+            <Czech>R-147</Czech>
+            <French>R-147</French>
+        </Key>
+    </Package>
+</Project>

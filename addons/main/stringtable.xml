@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ETFR">
+    <Package name="Main">
+        <Key ID="STR_ETFR_Main_Authors">
+            <English>Kavinsky</English>
+            <German>Kavinsky</German>
+            <Italian>Kavinsky</Italian>
+            <Japanese>Kavinsky</Japanese>
+            <Chinese>Kavinsky</Chinese>
+            <Chinesesimp>Kavinsky</Chinesesimp>
+            <Korean>Kavinsky</Korean>
+            <Polish>Kavinsky</Polish>
+            <Russian>Kavinsky</Russian>
+            <Portuguese>Kavinsky</Portuguese>
+            <Spanish>Kavinsky</Spanish>
+            <Czech>Kavinsky</Czech>
+            <French>Kavinsky</French>
+        </Key>
+        <Key ID="STR_ETFR_Main_URL">
+            <English>https://github.com/kavinsky/etfr</English>
+            <German>https://github.com/kavinsky/etfr</German>
+            <Italian>https://github.com/kavinsky/etfr</Italian>
+            <Japanese>https://github.com/kavinsky/etfr</Japanese>
+            <Chinese>https://github.com/kavinsky/etfr</Chinese>
+            <Chinesesimp>https://github.com/kavinsky/etfr</Chinesesimp>
+            <Korean>https://github.com/kavinsky/etfr</Korean>
+            <Polish>https://github.com/kavinsky/etfr</Polish>
+            <Russian>https://github.com/kavinsky/etfr</Russian>
+            <Portuguese>https://github.com/kavinsky/etfr</Portuguese>
+            <Spanish>https://github.com/kavinsky/etfr</Spanish>
+            <Czech>https://github.com/kavinsky/etfr</Czech>
+            <French>https://github.com/kavinsky/etfr</French>
+        </Key>
+    </Package>
+</Project>

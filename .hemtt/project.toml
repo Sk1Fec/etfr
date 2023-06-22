@@ -1,0 +1,35 @@
+name = "ETFR"
+prefix = "etfr"
+author = "Kavinsky"
+mainprefix = "z"
+
+[files]
+include = [
+    "*.dll",
+    "*.so",
+    "mod.cpp",
+    "README.md",
+    "LICENSE",
+    "logo_etfr_ca.paa",
+]
+
+[version]
+git_hash = 0
+
+[asc]
+enabled = true
+exclude = [
+    "/initsettings.sqf",
+    "/initkeybinds.sqf",
+    "/xeh_prep.sqf",
+    "example",
+    "dev",
+    "medical_ai/statemachine.sqf",
+    "common/functions/fnc_dummy.sqf",
+]
+
+[hemtt.config]
+preset = "Hemtt"
+
+[hemtt.launch]
+workshop = []
