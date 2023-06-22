@@ -17,6 +17,8 @@ _change = _change max 1;
 
 if (_change == _currentChannel) exitWith {};
 
+playSoundUI [QPATHTOF(sounds\channel-knob.wss), 1, 1];
+
 _knobBgControl = (findDisplay ETFR_R147P_IDD) displayCtrl ETFR_R147_IDC_CHANNEL_KNOB_BACKGROUND;
 _knobBgControl ctrlSetText format [QPATHTOF(textures\r147p_ch%1_ca.paa), _change];
 

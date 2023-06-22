@@ -1,5 +1,5 @@
 class CfgVehicles {
-    class Item_ETFR_R147: Item_Base_F {
+    /*class Item_ETFR_R147: Item_Base_F {
         scope = 2;
         scopeCurator = 2;
         displayName = "R-147";
@@ -12,7 +12,7 @@ class CfgVehicles {
         };
 
         #include "\z\tfar\addons\static_radios\edenAttributes.hpp"
-    };
+    };*/
 
     class Item_ETFR_R147P: Item_Base_F {
         scope = 2;
